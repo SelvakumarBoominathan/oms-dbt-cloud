@@ -10,8 +10,8 @@ sources:
       - name: orders
         identifier: orders
 
-      - name: ordersitems
-        identifier: ordersitems
+      - name: orderitems
+        identifier: orderitems
 
       - name: employees
         identifier: employees
